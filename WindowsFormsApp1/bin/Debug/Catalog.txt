@@ -1,0 +1,10 @@
+Pillow	30	1
+Bookcase	74	1
+Table	245	1
+Smart TV	500	0
+Nintendo Switch	399	0
+Nintendo 3DS	100	0
+Hi, I am Khalid	1000	1
+abc	200	3
+Television	99.99	0
+Book	10	2
